@@ -1,3 +1,3 @@
 # hello-world
 just one repository for me test!
-thanks!
+nothing to do
